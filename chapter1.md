@@ -19,22 +19,22 @@ Select the reserved words from the following:
 
 
 `@possible_answers`
-- [for] 
-- integer
-- [and]
-- small
-- [true]
-- [false]
-- boolean
-- [if]
-- [in]
-- [or]
-- [else]
-- [not]
-- [while]
-- [try]
-- number
-- large
+1. [for] 
+2. integer
+3. [and]
+4. small
+5. [true]
+6. [false]
+7. boolean
+8. [if]
+9. [in]
+10. [or]
+11. [else]
+12. [not]
+13. [while]
+14. [try]
+15. number
+16. large
 
 `@feedback`
 - for: Correct
